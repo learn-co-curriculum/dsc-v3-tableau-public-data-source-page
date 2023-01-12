@@ -102,7 +102,7 @@ The command bar contains shortcuts to common commands. Some of these commands ma
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-6-command-bar.png" alt="This is the alt-text for the image." height=350/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-6-command-bar.png" alt="This is the alt-text for the image." width=75%/>
 </td></tr></table>
     </center>
 </div>
