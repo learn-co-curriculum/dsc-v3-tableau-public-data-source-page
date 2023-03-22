@@ -1,4 +1,4 @@
-# Tableau Public II - Data Sources and the Tableau Workspace
+# Tableau Public - Data Sources and the Tableau Workspace
 
 ## Introduction
 In the previous lesson, we used the Connect pane on the Start page to open the Superstore Sales sample data set that we downloaded from the Tableau Resources collection. This will have opened the a new Tableau workbook to the __Data Source page__. Which should look like this:
