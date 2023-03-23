@@ -7,7 +7,7 @@ In the previous lesson, we used the Connect pane on the Start page to open the S
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-1-data-source.png" alt="This is the alt-text for the image." style="width: 800px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/tab-2-1-data-source.png" alt="This is the alt-text for the image." style="width: 800px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -29,7 +29,7 @@ In the image below, each of the components of the Tableau Data Source page has b
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-2-data-source.png" alt="This is the alt-text for the image." style="width: 800px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/tab-2-2-data-source.png" alt="This is the alt-text for the image." style="width: 800px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -41,7 +41,7 @@ In Tableau, sheets can be worksheets, dashboards, or stories. Each of these can 
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-3-sheets-tab.png" alt="This is the alt-text for the image." style="width: 300px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/tab-2-3-sheets-tab.png" alt="This is the alt-text for the image." style="width: 300px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -61,7 +61,7 @@ In Tableau, sheets can be worksheets, dashboards, or stories. Each of these can 
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-4-left-pane.png" alt="This is the alt-text for the image." style="width: 200px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/tab-2-4-left-pane.png" alt="This is the alt-text for the image." style="width: 200px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -80,7 +80,7 @@ Displays information about the current workbook, including the tables in the dat
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-5-canvas.png" alt="This is the alt-text for the image." height=350/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/tab-2-5-canvas.png" alt="This is the alt-text for the image." height=350/>
 </td></tr></table>
     </center>
 </div>
@@ -90,7 +90,7 @@ The canvas opens with the logical layer, where you can create relationships betw
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-5-canvas.png" alt="This is the alt-text for the image." height=350/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/tab-2-5-canvas.png" alt="This is the alt-text for the image." height=350/>
 </td></tr></table>
     </center>
 </div>
@@ -102,7 +102,7 @@ The command bar contains shortcuts to common commands. Some of these commands ma
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/tab-2-6-command-bar.png" alt="This is the alt-text for the image." width=75%/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/tab-2-6-command-bar.png" alt="This is the alt-text for the image." width=75%/>
 </td></tr></table>
     </center>
 </div>
@@ -134,7 +134,7 @@ Now, we will populate the Data Source Page with data from our sample database.<b
 <br>
 <div>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/workbook2.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 800px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/workbook2.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 800px;"/>
 </td></tr></table>
 </div>    
 <br>
@@ -153,7 +153,7 @@ The Tableau workspace consists of menus, a toolbar, the Data pane, cards and she
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/workspace2.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 800px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/workspace2.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="width: 800px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -165,7 +165,7 @@ First, let's take a look at the **Data pane**. Keep in mind that some of these c
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/data-pane.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/data-pane.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -192,7 +192,7 @@ In between the Data pane and active sheets are three rectangles. The first two, 
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/shelves.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/shelves.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -206,7 +206,7 @@ For example, if we hover over the name of a dimension or measure in the data pan
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/pill-example.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/pill-example.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -230,7 +230,7 @@ The sheets pane is the primary place where your data visualizations will be disp
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/sheets-pane.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/sheets-pane.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -246,7 +246,7 @@ At the top of the Sheets pane, When you add data to your worksheet, you do so by
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/pill-example.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/pill-example.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -258,7 +258,7 @@ On the far right side of the screen is the Show Me pane. This is what it looks l
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/show-me-no-data.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/show-me-no-data.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -274,7 +274,7 @@ Once you have populated the row and column shelves, you can use the Show Me Pane
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/show-me-data.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/show-me-data.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image." style="height: 350px;"/>
 </td></tr></table>
     </center>
 </div>
@@ -286,7 +286,7 @@ At the top of your screen is the **Menu bar**. This menu bar contains many funct
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/lesson2/menu-bar.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image."/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/v3/tableau/tableau/2_data_source_page/menu-bar.png" alt="Image of the sheets tab in the lower-left corner of the Tableau Data Source Page, with the Left Pane and Canvas visible." alt="This is the alt-text for the image."/>
 </td></tr></table>
     </center>
 </div>
